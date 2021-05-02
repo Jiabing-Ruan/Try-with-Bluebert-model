@@ -16,6 +16,8 @@ https://huggingface.co/bionlp/bluebert_pubmed_uncased_L-24_H-1024_A-16
 https://huggingface.co/bionlp/bluebert_pubmed_mimic_uncased_L-24_H-1024_A-16
 
 ## Citation
+
+```
 <a id="1">[1]</a> 
 @InProceedings{peng2019transfer,
   author    = {Yifan Peng and Shankai Yan and Zhiyong Lu},
@@ -24,4 +26,4 @@ https://huggingface.co/bionlp/bluebert_pubmed_mimic_uncased_L-24_H-1024_A-16
   booktitle = {Proceedings of the 2019 Workshop on Biomedical Natural Language Processing (BioNLP 2019)},
   year      = {2019},
 }
-
+```
