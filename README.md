@@ -18,7 +18,6 @@ https://huggingface.co/bionlp/bluebert_pubmed_mimic_uncased_L-24_H-1024_A-16
 ## Citation
 
 ```
-<a id="1">[1]</a> 
 @InProceedings{peng2019transfer,
   author    = {Yifan Peng and Shankai Yan and Zhiyong Lu},
   title     = {Transfer Learning in Biomedical Natural Language Processing: 
